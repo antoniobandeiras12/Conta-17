@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ultimasnoticias2026.top/sitemap.xml
+Sitemap: https://informaseagora.top/sitemap.xml
